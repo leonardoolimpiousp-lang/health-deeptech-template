@@ -1,0 +1,25 @@
+# Dados e segredos
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+credentials.json
+secrets.*
+private/
+restricted/
+data/raw/
+data/individual/
+
+# Artefatos locais
+.DS_Store
+__pycache__/
+.pytest_cache/
+.venv/
+node_modules/
+dist/
+build/
+outputs/
+*.log
