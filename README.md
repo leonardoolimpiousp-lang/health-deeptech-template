@@ -4,7 +4,7 @@ Modelo reutilizável inspirado na organização documental do VASC-HEMO. Serve p
 
 ## Criar um projeto
 
-1. Use este diretório como base de um novo repositório (ou publique-o no GitHub e marque **Template repository** nas configurações).
+1. Clique em **Use this template** no GitHub e crie um repositório para a nova ideia, ou use este diretório como base local.
 2. Substitua os campos entre `{{chaves}}` em `PROJECT.md` e nos demais arquivos usados.
 3. Registre decisões em `DECISIONS.md`; registre incertezas e dependências em `STATUS.md`.
 4. Apague seções não aplicáveis, especialmente IA, biomarcadores ou hardware, após registrar a decisão.
